@@ -61,8 +61,8 @@ public class WorkingWithStrings {
 
     //Trimming strings with trim()
     public void trimString(){
-        String str1 = " We are all   coming to the      office  today      ";
-        String str2 = "   not     in the office today      .";
+        String str1 = " We are all coming to the office today ";
+        String str2 = " not in the office today .";
         System.out.println(str1.trim());
         System.out.println(str2.trim());
     }
