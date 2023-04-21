@@ -1,5 +1,9 @@
+package TASK1_2;
+
+import TASK1_2.Person;
+
 //class with default variables
-public class Student extends Person{
+public class Student extends Person {
 
     //default variables
     String course = "Diploma in Finance";

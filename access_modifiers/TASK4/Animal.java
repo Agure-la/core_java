@@ -1,3 +1,5 @@
+package TASK4;
+
 //class with public fields and methods
 public class Animal {
 

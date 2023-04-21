@@ -1,3 +1,5 @@
+package Task3;
+
 //class with protected fields
 public class Vehicle {
 

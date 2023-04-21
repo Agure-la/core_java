@@ -1,5 +1,9 @@
+package Task3;
+
+import Task3.Vehicle;
+
 //subclass of vehicle with private fields
-public class Toyota extends Vehicle{
+public class Toyota extends Vehicle {
 
     private String name;
 

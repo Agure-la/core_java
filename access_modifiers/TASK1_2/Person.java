@@ -1,3 +1,5 @@
+package TASK1_2;
+
 //class with private variables
 public class Person {
 

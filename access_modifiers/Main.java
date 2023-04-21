@@ -1,3 +1,6 @@
+import TASK1_2.Person;
+import TASK1_2.Student;
+
 public class Main {
     public static void main(String args[])
     {
