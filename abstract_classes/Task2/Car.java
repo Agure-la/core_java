@@ -1,4 +1,6 @@
-public class Car extends Vehicle{
+package Task2;
+
+public class Car extends Vehicle {
 
     public Car(String make, String model) {
         super(make, model);

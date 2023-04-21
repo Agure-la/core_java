@@ -1,3 +1,5 @@
+package Task2;
+
 public abstract class Vehicle {
 
     protected String make;

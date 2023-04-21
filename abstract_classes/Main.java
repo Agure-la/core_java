@@ -1,3 +1,7 @@
+import Task1.Animal;
+import Task1.Cat;
+import Task1.Dog;
+
 public class Main {
     public static void main(String[] args) {
         Animal dog = new Dog("Puppy", 2);
