@@ -1,5 +1,9 @@
 
 
+ ArrayList Operations
+An ArrayList is a dynamic array in Java that allows adding or removing elements at runtime. In this guide, we will perform some common operations on ArrayList.
+   HashMap Operations
+HashMap is a data structure that stores data in key-value pairs. In this guide, we will perform some common operations on HashMap.
 
         TASKS
   

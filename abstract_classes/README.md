@@ -1,4 +1,6 @@
 
+    Abstract Classes
+Abstract classes are classes that contain abstract methods, which are methods without implementation. They are meant to be inherited by subclasses that provide concrete implementations of the abstract methods.
 
           TASK
 

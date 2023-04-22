@@ -1,4 +1,14 @@
-   
+  
+To create an interface in Java, use the interface keyword followed by the interface name.
+An interface can have one or more abstract methods that must be implemented by the class that implements the interface.
+An interface can also have default and static methods with implementations.
+A class can implement one or more interfaces by using the implements keyword followed by the interface name(s).
+An interface can extend one or more other interfaces using the extends keyword.
+All the methods in an interface are by default public and abstract.
+A class that implements an interface must implement all the abstract methods defined in the interface.
+An interface can also have fields, which are by default public, static, and final.
+Access modifiers like public, private, and protected cannot be used with interface fields, but they can be used with inner interfaces.
+ 
      TASK
    
 1. Create an interface with only one method and implement it in a class. Call the method implemented.

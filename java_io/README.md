@@ -13,3 +13,17 @@
 8. Write text to a .txt file using BufferedWriter
 9. Write a program to read data from properties file.
 10. Write a program to read data from excel 11. Write a program to write data to excel
+
+
+
+     The first two programs show how to read from and write to a text file using InputStream and OutputStream respectively.
+
+The next two programs demonstrate reading from and writing to a text file using BufferedInputStream and BufferedOutputStream respectively.
+
+The next two programs show how to read from and write to a text file using FileReader and FileWriter respectively.
+
+The following two programs demonstrate reading from and writing to a text file using BufferedReader and BufferedWriter respectively.
+
+The next program shows how to read data from a properties file.
+
+The final two programs demonstrate reading from and writing to an Excel file.
